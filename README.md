@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm a physics student and I'm starting to explore the world of frontend in web development.
-- 🔭 I'm currently working with Date Science at my college in the area of astrophysics using Pandas along with Python 
+- 🔭 I'm currently working with Date Science at my college in the astrophysics  area using Pandas along with Python 
 - 🌱 I'm currently learning React and I am practicing my HTML, CSS and JS 
 - 🤝 I'm looking for opportunities to collaborate with front-end projects 
 

@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a physics student and I am starting to explore the world of frontend in web development, I am looking for opportunities and also collaborations for projects .
+I am a physics student and I am starting to explore the world of frontend in web development.
 - 🔭 I am currently working with Date Science at my college in the area of astrophysics using Pandas along with Python 
 - 🌱 I am currently learning React and I am practicing my HTML, CSS and JS 
 - 🤝 I am looking for opportunities to collaborate with front-end projects 

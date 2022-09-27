@@ -1,9 +1,9 @@
 ### Hi 👋
 
-I'm a physics student and exploring the world of Data Science, automation and RPA with Python.
+I'm a physics student and exploring the world of Data Science, Back-end and RPA with Python.
 - 🔭 I'm currently working as Business Intelligence Developer intern at Looqbox company
-- 🌱 I'm currently studying Machine Learning and practicing Python with other libraries (Requests, OpenCV, SciKit-Learn and BotCity).
-- 🤝 I'm looking for opportunities to collaborate with RPA projects! 
+- 🌱 I'm currently studying Flask and practicing Python some libraries (OpenCV, PyAutoGUI and BotCity).
+- 🤝 I'm looking for opportunities to collaborate with Back-end projects or maybe develop bots for MMO games xD 
 - ✉️  You can contact me at [renancavalcantercb@protonmail.com](mailto:renancavalcantercb@protonmail.com)
 ### Skills
 <p align="left">

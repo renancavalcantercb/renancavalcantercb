@@ -14,14 +14,14 @@
  
 
 ## techs && skills
-<p align="justify"><a href="https://bermeo.dev">
+<p align="justify">
  <img alt="Python" src="https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%230d1117?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%230d1117?style=for-the-badge&logo=OpenCV&logoColor=white"/>
  <img alt="Flask" src="https://img.shields.io/badge/Flask-%230d1117?style=for-the-badge&logo=flask&logoColor=white"/>
  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%230d1117?style=for-the-badge&logo=Insomnia&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-%230d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+ <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-%230d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%230d1117?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230d1117?style=for-the-badge&logo=heroku&logoColor=white"/>
  <img alt="Git" src="https://img.shields.io/badge/GIT-%230d1117?style=for-the-badge&logo=git&logoColor=white"/>

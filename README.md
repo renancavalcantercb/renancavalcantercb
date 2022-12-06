@@ -1,5 +1,7 @@
+<a href="https://wakatime.com/@836ff2e8-5dbd-47b2-befe-735f2e423d4e"><img src="https://wakatime.com/badge/user/836ff2e8-5dbd-47b2-befe-735f2e423d4e.svg?style=for-the-badge"/></a>
+
 <p align="left">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=renancavalcantercb&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancavalcantercb&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=renancavalcantercb&theme=tokyo-night&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=black" alt="GitHub Commits Graph"/>
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=renancavalcantercb&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancavalcantercb&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="43%" src="https://github-readme-stats.vercel.app/api/wakatime?username=renancavalcantercb&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </p>
 
 ## about.me

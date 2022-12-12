@@ -20,6 +20,7 @@
  <img alt="Python" src="https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%230d1117?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%230d1117?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+ <img alt="Django" src="https://img.shields.io/badge/Django-%230d1117?style=for-the-badge&logo=django&logoColor=white"/>
  <img alt="Flask" src="https://img.shields.io/badge/Flask-%230d1117?style=for-the-badge&logo=flask&logoColor=white"/>
  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%230d1117?style=for-the-badge&logo=Insomnia&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -30,10 +31,15 @@
  <img alt="Linux" src="https://img.shields.io/badge/Linux-%230d1117?style=for-the-badge&logo=linux&logoColor=white"/>
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%230d1117?style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%230d1117?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ 
+
 </p>
  
 ## social && contact
 <p align="justify">
   <a href="https://www.linkedin.com/in/renan-cavalcante-barroso/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://renancavalcantercb.github.io/"><img alt="Bootstrap" src="https://img.shields.io/badge/Website-%230d1117?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://mail.proton.me/u/0/renancavalcantercb@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-%230d1117?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+
 </p>

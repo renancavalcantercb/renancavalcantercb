@@ -66,10 +66,10 @@
 </a>
 
 <p align="left">
-    <img width="33%" src="https://github-readme-stats-one-alpha-30.vercel.app/api/top-langs?username=renancavalcantercb&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+    <img width="50%" src="https://github-readme-stats-one-alpha-30.vercel.app/api/top-langs?username=renancavalcantercb&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </p>
 <p align="left">
-  <img width="33%" src="https://github-readme-stats-one-alpha-30.vercel.app/api?username=renancavalcantercb&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img width="50%" src="https://github-readme-stats-one-alpha-30.vercel.app/api?username=renancavalcantercb&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </p>
 <p align="left">
   <img width="50%" src="https://github-readme-stats-one-alpha-30.vercel.app/api/wakatime?username=renancavalcantercb&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>

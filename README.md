@@ -11,22 +11,45 @@
 
 ## techs && skills
 <p align="justify">
- <img alt="Python" src="https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%230d1117?style=for-the-badge&logo=pandas&logoColor=white"/>
- <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%230d1117?style=for-the-badge&logo=OpenCV&logoColor=white"/>
- <img alt="Django" src="https://img.shields.io/badge/Django-%230d1117?style=for-the-badge&logo=django&logoColor=white"/>
- <img alt="Flask" src="https://img.shields.io/badge/Flask-%230d1117?style=for-the-badge&logo=flask&logoColor=white"/>
- <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%230d1117?style=for-the-badge&logo=Insomnia&logoColor=white"/>
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-%230d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%230d1117?style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230d1117?style=for-the-badge&logo=heroku&logoColor=white"/>
- <img alt="Git" src="https://img.shields.io/badge/GIT-%230d1117?style=for-the-badge&logo=git&logoColor=white"/>
- <img alt="Linux" src="https://img.shields.io/badge/Linux-%230d1117?style=for-the-badge&logo=linux&logoColor=white"/>
- <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%230d1117?style=for-the-badge&logo=html5&logoColor=white"/>
- <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%230d1117?style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
+  <table>
+    <tr>
+      <th>Front-end</th>
+      <th>Back-end</th>
+      <th>DevOps</th>
+      <th>Data Science & RPA</th>
+    </tr>
+    <tr>
+      <td>
+        <img alt="React" src="https://img.shields.io/badge/React-%230d1117?style=for-the-badge&logo=react&logoColor=white"/>
+        <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%230d1117?style=for-the-badge&logo=javascript&logoColor=white"/>
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%230d1117?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%230d1117?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+        <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%230d1117?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+      </td>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=white"/>
+        <img alt="Django" src="https://img.shields.io/badge/Django-%230d1117?style=for-the-badge&logo=django&logoColor=white"/>
+        <img alt="Flask" src="https://img.shields.io/badge/Flask-%230d1117?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-%230d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%230d1117?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </td>
+      <td>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-%230d1117?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%230d1117?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <img alt="GCP" src="https://img.shields.io/badge/GCP-%230d1117?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230d1117?style=for-the-badge&logo=heroku&logoColor=white"/>
+        <img alt="Git" src="https://img.shields.io/badge/GIT-%230d1117?style=for-the-badge&logo=git&logoColor=white"/>
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-%230d1117?style=for-the-badge&logo=linux&logoColor=white"/>
+      </td>
+      <td>
+        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%230d1117?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%230d1117?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+        <img alt="PyAutoGUI" src="https://img.shields.io/badge/PyAutoGUI-%230d1117?style=for-the-badge&logo=python&logoColor=white"/>
+        <img alt="BotCity" src="https://img.shields.io/badge/BotCity-%230d1117?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 </p>
  
 ## social && contact

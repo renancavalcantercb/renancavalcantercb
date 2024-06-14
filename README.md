@@ -32,12 +32,16 @@
         <img alt="Flask" src="https://img.shields.io/badge/Flask-%230d1117?style=for-the-badge&logo=flask&logoColor=white"/>
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-%230d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+        <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-%230d1117?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%230d1117?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </td>
       <td>
         <img alt="Docker" src="https://img.shields.io/badge/Docker-%230d1117?style=for-the-badge&logo=docker&logoColor=white"/>
         <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%230d1117?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%230d1117?style=for-the-badge&logo=terraform&logoColor=white"/>
+        <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%230d1117?style=for-the-badge&logo=jenkins&logoColor=white"/>
         <img alt="GCP" src="https://img.shields.io/badge/GCP-%230d1117?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-%230d1117?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
         <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230d1117?style=for-the-badge&logo=heroku&logoColor=white"/>
         <img alt="Git" src="https://img.shields.io/badge/GIT-%230d1117?style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="Linux" src="https://img.shields.io/badge/Linux-%230d1117?style=for-the-badge&logo=linux&logoColor=white"/>

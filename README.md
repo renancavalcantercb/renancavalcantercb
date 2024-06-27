@@ -1,13 +1,12 @@
-## about.me
+## about.me 
+
 <p align="justify">
-  I am a physics student exploring the world of data science, back-end and RPA with Python.
+  I am a physics student exploring the world of DevOPS, Data Science and RPA with Python.
   
   - 🔭 I'm currently working as Business Intelligence Developer at [Looqbox](https://www.looqbox.com/)
-  - 🌱 I'm currently studying Flask and practicing Python some libraries (OpenCV, PyAutoGUI and BotCity).
-  - 🤝 I'm looking for opportunities to collaborate with Back-end projects or maybe develop bots for MMO games xD 
+  - 🌱 I'm currently studying to become a DevOps engineer.
+  - 🤝 I'm looking for opportunities to collaborate on DevOps projects or maybe develop bots for MMO games xD 
 </p>
-
- 
 
 ## techs && skills
 <p align="justify">
@@ -65,18 +64,11 @@
 </p>
 
 ## stats
-<a href="https://wakatime.com/@836ff2e8-5dbd-47b2-befe-735f2e423d4e">
-  <img src="https://wakatime.com/badge/user/836ff2e8-5dbd-47b2-befe-735f2e423d4e.svg?style=for-the-badge"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renancavalcantercb&cache_seconds=86400&theme=tokyonight&icon_color=DAD3AF&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-one-alpha-30.vercel.app/api/wakatime?username=renancavalcantercb&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=8"/>
 </a>
 
-<p align="left">
-    <img width="50%" src="https://github-readme-stats-one-alpha-30.vercel.app/api/top-langs?username=renancavalcantercb&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
-</p>
-<p align="left">
-  <img width="50%" src="https://github-readme-stats-one-alpha-30.vercel.app/api?username=renancavalcantercb&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-</p>
-<p align="left">
-  <img width="50%" src="https://github-readme-stats-one-alpha-30.vercel.app/api/wakatime?username=renancavalcantercb&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
-</p>
-
-
+<img height=275 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancavalcantercb&layout=compact&langs_count=8&card_width=320&cache_seconds=86400&theme=tokyonight&icon_color=DAD3AF&hide_border=true&bg_color=0d1117&hide=c%23,scss,html" />

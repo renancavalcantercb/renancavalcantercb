@@ -71,4 +71,4 @@
     <img height=200 align="center" src="https://github-readme-stats-one-alpha-30.vercel.app/api/wakatime?username=renancavalcantercb&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=8"/>
 </a>
 
-<img height=275 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancavalcantercb&layout=compact&langs_count=8&card_width=320&cache_seconds=86400&theme=tokyonight&icon_color=DAD3AF&hide_border=true&bg_color=0d1117&hide=c%23,scss,html" />
+<img height=275 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancavalcantercb&layout=compact&langs_count=8&card_width=320&cache_seconds=86400&theme=tokyonight&icon_color=DAD3AF&hide_border=true&bg_color=0d1117&hide=scss,html,css" />

@@ -57,7 +57,7 @@
  
 ## social && contact
 <p align="justify">
-  <a href="https://www.linkedin.com/in/renan-cavalcante-barroso/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/renancavalcantercb/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://renancavalcantercb.github.io/"><img alt="Bootstrap" src="https://img.shields.io/badge/Website-%230d1117?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://mail.proton.me/u/0/renancavalcantercb@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-%230d1117?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 

@@ -21,7 +21,7 @@ Hi there! I'm a tech enthusiast with a physics background, currently working as 
 
 ## Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=renancavalcantercb&cache_seconds=86400&theme=tokyonight&icon_color=DAD3AF&hide_border=true&bg_color=0d1117" />
   </a>
@@ -29,10 +29,10 @@ Hi there! I'm a tech enthusiast with a physics background, currently working as 
     <img height=200 src="https://github-readme-stats-one-alpha-30.vercel.app/api/wakatime?username=renancavalcantercb&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=8"/>
   </a>
 </div>
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=renancavalcantercb&layout=compact&langs_count=8&card_width=320&cache_seconds=86400&theme=tokyonight&icon_color=DAD3AF&hide_border=true&bg_color=0d1117&hide=scss,html,css" />
 </div>
+
 
 ## Contact & Social
 
